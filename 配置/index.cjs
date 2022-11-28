@@ -2,7 +2,7 @@
 
 /**
  * 此项目配置为方便新人使用，已缩减至最简配置。
- * 如若想使用更多功能，请查考文档中的【3. config参数说明】 
+ * 如若想使用更多功能，请查考文档中的 【3. config参数说明】 
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
@@ -43,7 +43,8 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2020-07-26' },
-        
+        // 结婚纪念日
+        { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
   ],
