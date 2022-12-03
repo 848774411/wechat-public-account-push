@@ -43,7 +43,7 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2020-07-26' },
-        // 结婚纪念日
+        // 结婚纪念
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
